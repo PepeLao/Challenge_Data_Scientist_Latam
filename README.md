@@ -10,7 +10,7 @@ Como parte de la solución de este challenge se ha entrenado y testeado los sigu
 
  1.4. Algoritmo RandomForestClassifier.
 
- 1.5. Red Neuronal, TensorFlow - Keras - Optimizador RMSprop.
+ 1.5. Red Neuronal TensorFlow - Keras - Optimizador RMSprop.
 
  1.6. Red Neuronal MLPClassifier.
 
